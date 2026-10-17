@@ -1,33 +1,43 @@
 class MinStack {
 public:
-    // Method-2 : By using extra stack that will always have the same no.of elements as your given stack.
-    stack<int> st;
-    stack<int> helper;
-    MinStack() {
+    // Method - 4 (T.C = O(1) , S.C = O(1))
+
+    stack<long long> st;
+    long long min;
+    MinStack() { // Constructor
+       min = LLONG_MAX; 
+    }
+    
+    void push(int value) { // O(1)
+        long long x = (long long) value;
+        if(st.size() == 0){
+            st.push(x);
+            min = x;
+        }
+        else if(x >= min) st.push(x);
+        else{  // x < min
+            st.push(2*x - min); // Fake value is pushed
+            min = x;
+        }
+    }
+    
+    void pop() { // O(1)
+        if(st.top() < min){ // means A Fake value is present 
+        // So before popping make sure to retrieve the old min
         
-    }
-    
-    void push(int value) {
-        st.push(value);
-        if(helper.size() == 0 || value < helper.top()){
-            helper.push(value);
+        long long oldMin = 2* min - st.top();
+        min = oldMin;
         }
-        else{
-            helper.push(helper.top());
-        }
+        st.pop(); // will execute for both if and else condition
     }
     
-    void pop() {
-        st.pop();
-        helper.pop();
+    int top() { // O(1)
+        if(st.top() < min) return (int)min;
+        else return (int)st.top();
     }
     
-    int top() {
-        return st.top();
-    }
-    
-    int getMin() {
-        return helper.top();
+    int getMin() {  // O(1)
+        return (int)min;
     }
 };
 
