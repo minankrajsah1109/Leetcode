@@ -6,6 +6,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/minankrajsah1109/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/minankrajsah1109/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/minankrajsah1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Queue
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/minankrajsah1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
