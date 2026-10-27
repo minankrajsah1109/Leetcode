@@ -18,7 +18,7 @@ public:
         if(s == c) return false;
         arr[b] = val;
         b++;
-        if(b == c) b = 0; // b ko fir se idx 0 pe lejao
+        if(b == c) b = 0; // b ko fir se idx 0 pe lejao  // V.IMP Line
         s++;
         return true;
     }
@@ -26,7 +26,7 @@ public:
     bool deQueue() {   // deQueue means pop front
         if(s == 0) return false;
         f++;
-        if(f == c) f = 0;
+        if(f == c) f = 0; // V.IMP Line
         s--;
         return true;
     }
@@ -38,7 +38,7 @@ public:
     
     int Rear() {  // Rear means back
         if(s == 0) return -1;
-        if(b == 0) return arr[c-1];
+        if(b == 0) return arr[c-1]; // V.IMP Line
         return arr[b-1];
     }
     
