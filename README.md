@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/minankrajsah1109/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/minankrajsah1109/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/minankrajsah1109/Leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
