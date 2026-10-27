@@ -9,7 +9,7 @@ public:
             grid[0][i] = '.';
         }
 
-        for(int i = 0; i < m; i++){
+        for(int i = 1; i < m; i++){
             grid[i][n-1] = '.';
         }
 
