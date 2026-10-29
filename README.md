@@ -20,6 +20,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/minankrajsah1109/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/minankrajsah1109/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/minankrajsah1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -62,11 +63,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/minankrajsah1109/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/minankrajsah1109/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/minankrajsah1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/minankrajsah1109/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/minankrajsah1109/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
