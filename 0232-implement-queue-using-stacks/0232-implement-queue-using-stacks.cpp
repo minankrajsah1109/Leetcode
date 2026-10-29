@@ -6,11 +6,12 @@ public:
         
     }
     
-    void push(int x) {
+    void push(int x) {  // O(1)
         st.push(x);
     }
     
-    int pop() {
+    int pop() {  // O(n)
+        // remove at bottom
         while(st.size() > 0){
             helper.push(st.top());
             st.pop();
@@ -24,7 +25,8 @@ public:
         return x;
     }
     
-    int peek() {  // front
+    int peek() {  // front // O(n)
+        // retreive at bottom
         while(st.size() > 0){
             helper.push(st.top());
             st.pop();
