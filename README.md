@@ -24,6 +24,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/minankrajsah1109/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/minankrajsah1109/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/minankrajsah1109/Leetcode/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/minankrajsah1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -130,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/minankrajsah1109/Leetcode/tree/master/0649-dota2-senate) |
 | [2409-count-days-spent-together](https://github.com/minankrajsah1109/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/minankrajsah1109/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/minankrajsah1109/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/minankrajsah1109/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
