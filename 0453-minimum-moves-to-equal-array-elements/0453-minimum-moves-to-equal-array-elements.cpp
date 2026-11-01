@@ -4,7 +4,7 @@ public:
         int n = nums.size();
 
         int sum = accumulate(begin(nums), end(nums), 0);
-        int min_ele = *min_element(begin(nums), end(nums));
+        int min_ele = *min_element(nums.begin(), nums.end());
 
         return sum - n*min_ele;
     }
