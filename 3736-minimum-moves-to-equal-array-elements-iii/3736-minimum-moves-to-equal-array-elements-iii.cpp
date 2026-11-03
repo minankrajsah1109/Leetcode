@@ -6,7 +6,10 @@ public:
         sort(nums.begin(), nums.end());
 
         for(int i = 0; i < n; i++){
-            moves += (nums[n-1]-nums[i]);
+            if(nums[i] < nums[n-1]){
+                moves += (nums[n-1]-nums[i]);
+            }
+            
         }
         return moves;
     }
