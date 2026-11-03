@@ -18,6 +18,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/minankrajsah1109/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/minankrajsah1109/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/minankrajsah1109/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/minankrajsah1109/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/minankrajsah1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -90,6 +91,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/minankrajsah1109/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/minankrajsah1109/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/minankrajsah1109/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/minankrajsah1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
