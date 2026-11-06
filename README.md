@@ -14,6 +14,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/minankrajsah1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/minankrajsah1109/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/minankrajsah1109/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/minankrajsah1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/minankrajsah1109/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2747-count-zero-request-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/minankrajsah1109/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/minankrajsah1109/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/minankrajsah1109/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/minankrajsah1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -76,6 +79,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/minankrajsah1109/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/minankrajsah1109/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/minankrajsah1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/minankrajsah1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
