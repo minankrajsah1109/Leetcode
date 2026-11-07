@@ -123,6 +123,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/minankrajsah1109/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/minankrajsah1109/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/minankrajsah1109/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -235,4 +238,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/minankrajsah1109/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
