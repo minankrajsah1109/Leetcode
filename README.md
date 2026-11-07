@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
