@@ -10,6 +10,7 @@
 | [0622-design-circular-queue](https://github.com/minankrajsah1109/Leetcode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/minankrajsah1109/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/minankrajsah1109/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/minankrajsah1109/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/minankrajsah1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/minankrajsah1109/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/minankrajsah1109/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -189,6 +191,7 @@
 | [0257-binary-tree-paths](https://github.com/minankrajsah1109/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/minankrajsah1109/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -197,11 +200,13 @@
 | [0100-same-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/minankrajsah1109/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/minankrajsah1109/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/minankrajsah1109/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/minankrajsah1109/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/minankrajsah1109/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/minankrajsah1109/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -246,4 +251,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/minankrajsah1109/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/minankrajsah1109/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
