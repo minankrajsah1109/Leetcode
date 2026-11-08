@@ -4,46 +4,26 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        int count = 0;
+        vector<int> indexRowCount(m,0);
+        vector<int> indexColCount(n,0);
 
-        for(int i=0; i<m; i++)
-        {
-            for(int j=0; j<n; j++)
-            {
-                if(grid[i][j] == 1) // server
-                {
-                    bool canCommunicate = false;
-                    // check this ith row
-                    for(int col=0; col<n; col++)
-                    {
-                        if(grid[i][col] == 1 && col != j)
-                        {
-                            canCommunicate = true;
-                            break;
-                        }
-                    }
-                    if(canCommunicate == true)
-                    {
-                        count++;
-                    }
-                    else
-                    {
-                        //check column
-                        for(int row=0; row<m; row++)
-                        {
-                            if(grid[row][j] == 1 && row != i)
-                            {
-                                canCommunicate = true;
-                                break;
-                            }
-                        }
-                       if(canCommunicate == true)
-                        count++;
-                    }
-                    
+        for(int row = 0; row < m; row++){
+            for(int col = 0; col < n; col++){
+                if(grid[row][col] == 1){ // found a server
+                    indexRowCount[row] += 1;
+                    indexColCount[col] += 1;
                 }
             }
         }
-        return count;
+        
+        int resultServer = 0;
+        for(int row = 0; row < m; row++){
+            for(int col = 0; col < n; col++){
+                if(grid[row][col] == 1 && (indexRowCount[row] > 1 || indexColCount[col] > 1)){
+                    resultServer++;
+                }
+            }
+        }
+        return resultServer;
     }
 };
