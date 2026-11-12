@@ -3,22 +3,28 @@ public:
     int longestMonotonicSubarray(vector<int>& nums) {
         int n = nums.size();
 
-        int result = 0;
-        for(int i = 0; i < n; i++){
-            int incr = 1;
-            int j = i+1;
+        int incr = 1;
+        int decr = 1;
 
-            while(j < n && nums[j] > nums[j-1]){
+        int result = 1;
+
+        for(int i = 1; i < n; i++){
+            if(nums[i] > nums[i-1]){
                 incr++;
-                j++;
+                decr = 1;
+
+                result = max(result, incr);
             }
-            int decr = 1;  // decrement
-            j = i+1;
-            while(j < n && nums[j] < nums[j-1]){
+            else if(nums[i] < nums[i-1]){
                 decr++;
-                j++;
+                incr = 1;
+
+                result = max(result, decr);
             }
-            result = max({result, incr, decr});
+            else{
+                incr = 1;
+                decr = 1;
+            }
         }
         return result;
     }
