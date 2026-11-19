@@ -18,6 +18,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/minankrajsah1109/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1882-process-tasks-using-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/minankrajsah1109/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/minankrajsah1109/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/minankrajsah1109/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -94,6 +95,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/minankrajsah1109/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/minankrajsah1109/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/minankrajsah1109/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/minankrajsah1109/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/minankrajsah1109/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/minankrajsah1109/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/minankrajsah1109/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/minankrajsah1109/Leetcode/tree/master/0649-dota2-senate) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/minankrajsah1109/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/minankrajsah1109/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
