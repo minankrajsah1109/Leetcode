@@ -211,6 +211,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/minankrajsah1109/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/minankrajsah1109/Leetcode/tree/master/0649-dota2-senate) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/minankrajsah1109/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/minankrajsah1109/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/minankrajsah1109/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/minankrajsah1109/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
