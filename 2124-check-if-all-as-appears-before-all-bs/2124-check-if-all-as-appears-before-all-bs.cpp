@@ -1,21 +1,10 @@
 class Solution {
 public:
     bool checkString(string s) {
-        bool flag = true;
-        int n = s.length();
-        int i = 0;
+        string check = s;
 
-        while(s[i] == 'a' && i < n){
-            i++;
-        }
-        for(int j = i+1; j < n; j++){
-            if(s[j] == 'a'){
-               flag = false;
-               break;
-            }
+        sort(s.begin(), s.end());
 
-        }
-        return flag;
-        
+        return check == s;
     }
 };
